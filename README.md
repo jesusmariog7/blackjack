@@ -1,4 +1,4 @@
-# blackjack
+# Blackjack game
 
 
 A simplified version of the card game of “Black-Jack” (or “Twenty-One”) using an Object Oriented approach in C++.
